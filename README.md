@@ -26,13 +26,20 @@
   👨‍💻 I'm interested in Web3 domain and would love to collaborate on that.<br>
   📫 You can connect with me on my LinkedIn as well.
 </p>
+<br>
 
+
+## 🌐 Portfolio:
+<p style="line-height: 1.5; font-size: 50px;">
+  <a href="https://www.suraj3240.tech/">suraj3240.tech</a>
+</p>
+<br>
 <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-shinde-11548922a/) &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/suraj_3240) &nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suraj.shinde_01/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-shinde-11548922a/) &nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suraj_3240) &nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suraj.shinde_01/) 
 
 <br>
 
