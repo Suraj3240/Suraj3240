@@ -30,9 +30,7 @@
 
 
 ## 🌐 Portfolio:
-<p style="line-height: 1.5; font-size: 50px;">
-  <a href="https://www.suraj3240.tech/">suraj3240.tech</a>
-</p>
+<a href="https://www.suraj3240.tech/" target="_blank">suraj3240.tech</a>
 <br>
 <br>
 
