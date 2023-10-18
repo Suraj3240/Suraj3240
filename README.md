@@ -28,7 +28,6 @@
 </p>
 <br>
 
-
 ## 🌐 Portfolio:
 <a href="https://www.suraj3240.tech/" target="_blank">suraj3240.tech</a>
 <br>
@@ -68,6 +67,11 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) &nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) &nbsp;
 
+<br>
+
+## 🌐 Open Source:
+[![An image of @suraj3240's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suraj3240)](https://holopin.io/@suraj3240)
+<br>
 <br>
 
 # 📈 GitHub Stats:
